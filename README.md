@@ -1,4 +1,4 @@
 # work
 this is my first repository.
 <br>
-my name is rimjhim.
+my name is rimjhim (KNITian).
